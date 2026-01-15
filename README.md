@@ -3,10 +3,9 @@
 ## Definition
 SULAI is a postgraduate-level cognitive and ethical architecture designed to recalibrate perception before knowledge acquisition.
 
-## Core Principle
-Perception precedes thought.  
+## Perception precedes thought.  
 Feeling precedes decision.  
-Time-awareness precedes ethics.
+Time-awareness precedes ethics..
 
 ## Scope
 - Cognitive Calibration (Zero Chapter)

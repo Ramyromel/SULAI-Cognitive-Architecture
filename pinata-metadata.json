@@ -1,0 +1,13 @@
+{
+  "name": "SULAI Cognitive Architecture – Curriculum",
+  "keyvalues": {
+    "project": "LUXIONEX",
+    "system": "SULAI",
+    "type": "cognitive-curriculum",
+    "author": "Ibrahim Naif Ibrahim Hassan Ghonem",
+    "version": "v1.0",
+    "integrity": "sha256",
+    "access": "controlled",
+    "category": "postgraduate-cognitive-architecture"
+  }
+}
